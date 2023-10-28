@@ -1,4 +1,4 @@
 # life-blog
 blog containing tips and inspirations
 
-A postok megjelenítése és kezelése, a regisztráció és belépés befejezett. Csak a felső menü egyszerűbb része nincs kidolgozva.
+This is a blog where I've learned how to display and manage posts, as well as implement registration and login using PHP. For data storage, I've used MySQL.
